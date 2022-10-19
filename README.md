@@ -19,10 +19,6 @@ Visit https://birthday-wisher-67a57.web.app
 Click on Generate Link
 or Head to https://birthday-wisher-67a57.web.app/generate
 
-Enter the `name , day , month of birthday`
-
-![ScreenShot of Form](screenshots/generate link.png)
-
 Click on Generate Link
 
 You Can see a Link being generated Copy or Visit the link by Clicking on the Button
